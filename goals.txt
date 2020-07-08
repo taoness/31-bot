@@ -4,6 +4,9 @@ This document defines the short term, coding goals of this project; in lieu of
 a scrum board or project manager.
 
 TODO:
+URGENT: Add keys.json to gitignore, and manually distribute.  This can't be
+posted.
+
 * Connect to Discord
 * Create card decks
 * Create card hands
