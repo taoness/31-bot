@@ -1,0 +1,27 @@
+Scope:
+
+This document defines the short term, coding goals of this project; in lieu of
+a scrum board or project manager.
+
+TODO:
+* Connect to Discord
+* Create card decks
+* Create card hands
+* Decide on playing command and card syntax
+* Shuffle cards
+* Distribute/Deal Cards
+* Communicate cards to players
+* Accept valid card input
+* Maintain list of players
+* Create joining member "lobby"
+* Create a turn based trigger
+* Start Games
+* Track player lives
+* Resulting Score-boards
+* Help Menu
+* Rules Menu
+* Rule Options
+* Session management
+* Game timeout
+* Typo help, syntax correction
+* Expand with Database, for hosting multiple servers

@@ -1,0 +1,15 @@
+{
+  "name": "31-bot",
+  "version": "1.0.0",
+  "description": "A humble bot, created to help teach the world the game of 31.",
+  "main": "main.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "Mathew Hutchins",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
